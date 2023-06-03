@@ -6,6 +6,6 @@ This repository contains the final project web automation  for login features an
     Note: Before running the secenario automation file, first make sure your device has installed python, chrome webdriver and selenium
 - Here is screen capture result run scenario automation
 1. Result product.py file
-    ![image](https://github.com/PuteriAulia/fpQaJubelio/assets/73010439/0d36de0d-ca7f-4d6b-ae0b-c1ab902f5e2c)
+    ![image](https://github.com/PuteriAulia/fpQaJubelio/assets/73010439/e4a5e003-27e8-4c4a-b7e9-d4992a0b2c75)
 2. Result account.py file
     ![image](https://github.com/PuteriAulia/fpQaJubelio/assets/73010439/cfaa3adf-7840-4974-90ad-e965b865e86c)
